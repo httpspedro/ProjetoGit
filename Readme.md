@@ -11,6 +11,9 @@ git branch -M "" --> comando que server para trocar a branch que você está tra
 git remote add origin --> comando que faz a coneção do seu repositório local com seu repositório do gitHub.
 
 git push -u origin master --> comando utilizado para fazer o push dos arquivos que você deu o commit, que nada mais é do que fazer o uplouad dos seus aquivos do pc para o seu repositório no gitHub
+obss: O -u só precisa ser utilizado no push após o primero git remote, após ela nao precisa mais adicionar o -u apenas "git push origin e sua "branch"".
+
+git checkout -b "" --> comando para criar uma novo branch.
 
 
 Olá esse projeto ensina você a usar o git.
