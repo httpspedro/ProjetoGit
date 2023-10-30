@@ -15,6 +15,18 @@ obss: O -u só precisa ser utilizado no push após o primero git remote, após e
 
 git checkout -b "" --> comando para criar uma novo branch.
 
+git merge --> comando utilizado para unir branch ao termino de seus desemvovimentos separados, e para finalizar e unir é precisar dar um git push origin.
+
+git clone -->> comando para clonar rrepositórios que é fazer um download de repositórios públicos no git não só do seu mas de outras pessoas.
+
+git pull --> comando que funciona ao contrario do push que é da sua maquina para o repositório o pull fara do repositório para sua maquina.
+
+cd --> comando que server para abrir pastas.
+
+fork --> botão que copia um repositorio para seu gitHub.
+
+pull request --> é quando você envia uma atualização de fork que você fez de um repositório.
+
 
 Olá esse projeto ensina você a usar o git.
 
