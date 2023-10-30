@@ -16,3 +16,5 @@ git push -u origin master --> comando utilizado para fazer o push dos arquivos q
 Olá esse projeto ensina você a usar o git.
 
 Isto é uma nova alteração.
+
+Segunda alteração para teste de senha.
